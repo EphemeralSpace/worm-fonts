@@ -1,0 +1,31 @@
+{
+glyphname = cedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,-256,l),
+(0,-256,l),
+(0,-512,l),
+(256,-512,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(512,0,l),
+(256,0,l),
+(256,-256,l),
+(512,-256,l)
+);
+}
+);
+width = 768;
+}
+);
+note = cedilla;
+unicode = 184;
+}

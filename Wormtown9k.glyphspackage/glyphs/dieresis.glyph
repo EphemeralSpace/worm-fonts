@@ -1,0 +1,31 @@
+{
+glyphname = dieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,1792,l),
+(0,1792,l),
+(0,1536,l),
+(256,1536,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(768,1792,l),
+(512,1792,l),
+(512,1536,l),
+(768,1536,l)
+);
+}
+);
+width = 1024;
+}
+);
+note = dieresis;
+unicode = 168;
+}

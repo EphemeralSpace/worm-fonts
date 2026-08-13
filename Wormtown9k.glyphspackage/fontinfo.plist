@@ -1,0 +1,432 @@
+{
+.appVersion = "4004";
+.formatVersion = 3;
+customParameters = (
+{
+name = vendorID;
+value = "HL  ";
+},
+{
+name = panose;
+value = (
+2,
+1,
+5,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+3,
+31,
+33,
+35
+);
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+space,
+exclam,
+quotedbl,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+braceright,
+asciitilde,
+uni00A0,
+exclamdown,
+cent,
+sterling,
+yen,
+brokenbar,
+dieresis,
+copyright,
+guillemotleft,
+logicalnot,
+registered,
+degree,
+plusminus,
+acute,
+mu,
+paragraph,
+periodcentered,
+cedilla,
+guillemotright,
+questiondown,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+AE,
+Ccedilla,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Eth,
+Ntilde,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+multiply,
+Oslash,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Yacute,
+Thorn,
+germandbls,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+ae,
+ccedilla,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+eth,
+ntilde,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+divide,
+oslash,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+yacute,
+thorn,
+ydieresis,
+Ccaron,
+ccaron,
+Dcaron,
+dcaron,
+Ecaron,
+ecaron,
+dotlessi,
+Ncaron,
+ncaron,
+OE,
+oe,
+Rcaron,
+rcaron,
+Scaron,
+scaron,
+Tcaron,
+tcaron,
+Uring,
+uring,
+Ydieresis,
+Zcaron,
+zcaron,
+florin,
+emdash,
+quoteleft,
+quoteright,
+quotesinglbase,
+quotedblleft,
+quotedblright,
+quotedblbase,
+dagger,
+bullet,
+ellipsis,
+guilsinglleft,
+guilsinglright,
+Euro,
+trademark
+);
+}
+);
+date = "2013-05-13 12:24:02 +0000";
+familyName = "Grand9K Pixel";
+fontMaster = (
+{
+customParameters = (
+{
+name = typoAscender;
+value = 2560;
+},
+{
+name = typoDescender;
+value = -256;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2560;
+},
+{
+name = winDescent;
+value = 512;
+},
+{
+name = hheaAscender;
+value = 2560;
+},
+{
+name = hheaDescender;
+value = -512;
+},
+{
+name = strikeoutPosition;
+value = 530;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlinePosition;
+value = -256;
+},
+{
+name = underlineThickness;
+value = 256;
+}
+);
+id = m01;
+metricValues = (
+{
+pos = 2560;
+},
+{
+pos = 1792;
+},
+{
+pos = -256;
+},
+{
+}
+);
+name = Regular;
+stemValues = (
+256,
+256
+);
+userData = {
+GSSlanterCursivy = 0;
+GSSlanterCursivyContrastFactor = 0.5;
+GSSlanterCursivyDoContrast = 0;
+GSSlanterCursivyDoShape = 0;
+GSSlanterCursivyDoThickness = 0;
+GSSlanterCursivyShapeFactor = 0.5;
+GSSlanterCursivyThicknessFactor = 1;
+GSSlanterGeometric = 0;
+GSSlanterRotate = 0;
+};
+}
+);
+instances = (
+{
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = Grand9KPixelRegular;
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = ENG;
+value = "Grand9K Pixel Regular";
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = bodyHeight;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "© 2009, 2010, 2011, 2012, 2013 Grand Chaos Productions. Some Rights Reserved.";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = ENG;
+value = "This font was created using FontCreator 5.6 from High-Logic.com";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "Jayvee D. Enaguas (Grand Chaos)";
+}
+);
+},
+{
+key = designerURL;
+value = "http://grandchaos9000.deviantart.com/";
+},
+{
+key = licenseURL;
+value = "http://creativecommons.org/licenses/by-sa/3.0/";
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+disablesNiceNames = 1;
+gridLength = 256;
+};
+stems = (
+{
+name = Horizontal;
+},
+{
+horizontal = 1;
+name = Vertical;
+}
+);
+unitsPerEm = 2048;
+versionMajor = 1;
+versionMinor = 0;
+}

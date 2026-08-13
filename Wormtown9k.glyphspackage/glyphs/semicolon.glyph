@@ -1,0 +1,31 @@
+{
+glyphname = semicolon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,256,l),
+(0,256,l),
+(0,-256,l),
+(256,-256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(256,1280,l),
+(0,1280,l),
+(0,1024,l),
+(256,1024,l)
+);
+}
+);
+width = 512;
+}
+);
+note = semicolon;
+unicode = (59,894);
+}

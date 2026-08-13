@@ -1,0 +1,73 @@
+{
+.appVersion = "4004";
+.formatVersion = 4;
+date = "2026-08-11 18:53:03 +0000";
+fontMaster = (
+{
+id = "E2355328-5F9E-43A3-8DD9-A1C16AC69BD2";
+metricValues = (
+{
+pos = 2816;
+},
+{
+pos = 2304;
+},
+{
+pos = 1792;
+},
+{
+},
+{
+pos = -512;
+},
+);
+name = Regular;
+stemValues = (
+256,
+256,
+);
+},
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+);
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "New Font";
+},
+);
+},
+);
+settings = {
+gridLength = 256;
+};
+stems = (
+{
+name = Horizontal;
+},
+{
+name = Vertical;
+},
+);
+unitsPerEm = 2048;
+versionMajor = 1;
+versionMinor = 0;
+}

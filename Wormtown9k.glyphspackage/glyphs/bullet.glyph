@@ -1,0 +1,22 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,1024,l),
+(0,1024,l),
+(0,768,l),
+(256,768,l)
+);
+}
+);
+width = 512;
+}
+);
+note = bullet;
+unicode = 8226;
+}

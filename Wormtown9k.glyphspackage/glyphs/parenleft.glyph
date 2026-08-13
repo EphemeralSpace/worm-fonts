@@ -1,0 +1,40 @@
+{
+glyphname = parenleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,256,l),
+(256,256,l),
+(256,0,l),
+(768,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(256,1536,l),
+(0,1536,l),
+(0,256,l),
+(256,256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(768,1792,l),
+(256,1792,l),
+(256,1536,l),
+(768,1536,l)
+);
+}
+);
+width = 1024;
+}
+);
+note = parenleft;
+unicode = 40;
+}
