@@ -257,7 +257,7 @@ trademark
 }
 );
 date = "2013-05-13 12:24:02 +0000";
-familyName = "Grand9K Pixel";
+familyName = Wormtown9k;
 fontMaster = (
 {
 customParameters = (
@@ -344,21 +344,6 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFontName;
-value = Grand9KPixelRegular;
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = ENG;
-value = "Grand9K Pixel Regular";
-}
-);
-}
-);
 }
 );
 metrics = (
