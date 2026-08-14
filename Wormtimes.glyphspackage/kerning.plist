@@ -1,0 +1,45 @@
+{
+kerningLTR = {
+"E2355328-5F9E-43A3-8DD9-A1C16AC69BD2" = {
+"@MMK_L_A" = {
+"@MMK_R_V" = -512;
+};
+"@MMK_L_F" = {
+"@MMK_R_o" = -256;
+};
+"@MMK_L_O" = {
+"@MMK_R_A" = -256;
+"@MMK_R_V" = -256;
+};
+"@MMK_L_S" = {
+"@MMK_R_p" = -256;
+};
+"@MMK_L_V" = {
+"@MMK_R_O" = -256;
+"@MMK_R_comma" = -512;
+A = -512;
+};
+"@MMK_L_XOO" = {
+"@MMK_R_OXX" = -256;
+};
+"@MMK_L_a" = {
+"@MMK_R_v" = -256;
+};
+"@MMK_L_o" = {
+"@MMK_R_." = -256;
+"@MMK_R_v" = -256;
+};
+"@MMK_L_u" = {
+"@MMK_R_o" = -256;
+};
+"@MMK_L_v" = {
+"@MMK_R_." = -256;
+"@MMK_R_comma" = -512;
+"@MMK_R_o" = -256;
+};
+A = {
+"@MMK_R_O" = -256;
+};
+};
+};
+}
