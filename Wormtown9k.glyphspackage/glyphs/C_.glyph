@@ -2,6 +2,16 @@
 glyphname = C;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (640,0);
+},
+{
+name = top;
+pos = (640,2048);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -2,6 +2,12 @@
 glyphname = cedilla;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (384,0);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -5,34 +5,14 @@ layers = (
 layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(512,1280,l),
-(256,1280,l),
-(256,0,l),
-(512,0,l)
-);
+ref = dotlessi;
 },
 {
-closed = 1;
-nodes = (
-(512,1792,l),
-(256,1792,l),
-(256,1536,l),
-(512,1536,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(256,2048,l),
-(0,2048,l),
-(0,1792,l),
-(256,1792,l)
-);
+pos = (-256,256);
+ref = grave;
 }
 );
-width = 768;
+width = 512;
 }
 );
 note = igrave;

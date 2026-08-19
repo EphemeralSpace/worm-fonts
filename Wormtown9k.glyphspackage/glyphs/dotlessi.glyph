@@ -2,6 +2,12 @@
 glyphname = dotlessi;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (128,1536);
+}
+);
 layerId = m01;
 shapes = (
 {
