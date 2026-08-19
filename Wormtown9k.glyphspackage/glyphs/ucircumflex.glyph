@@ -13,6 +13,19 @@ ref = circumflex;
 }
 );
 width = 1280;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (0,256);
+ref = circumflex;
+}
+);
+width = 1024;
 }
 );
 note = ucircumflex;

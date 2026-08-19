@@ -13,6 +13,19 @@ ref = tilde;
 }
 );
 width = 1536;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (0,256);
+ref = tilde;
+}
+);
+width = 1024;
 }
 );
 note = otilde;

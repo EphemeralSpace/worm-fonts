@@ -15,6 +15,21 @@ nodes = (
 }
 );
 width = 512;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(512,512,l),
+(512,768,l),
+(256,768,l),
+(256,512,l)
+);
+}
+);
+width = 600;
 }
 );
 note = periodcentered;

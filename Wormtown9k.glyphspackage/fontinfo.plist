@@ -1,6 +1,12 @@
 {
 .appVersion = "4004";
 .formatVersion = 3;
+axes = (
+{
+name = "Optical size";
+tag = opsz;
+}
+);
 customParameters = (
 {
 name = vendorID;
@@ -32,73 +38,43 @@ value = (
 33,
 35
 );
+},
+{
+name = "Enforce Compatibility Check";
+value = 0;
 }
 );
 date = "2013-05-13 12:24:02 +0000";
 familyName = Wormtown9k;
 fontMaster = (
 {
+axesValues = (
+7
+);
 customParameters = (
 {
-name = typoAscender;
-value = 2560;
-},
-{
-name = typoDescender;
-value = -256;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 2560;
-},
-{
-name = winDescent;
-value = 512;
-},
-{
-name = hheaAscender;
-value = 2560;
-},
-{
-name = hheaDescender;
-value = -512;
-},
-{
-name = strikeoutPosition;
-value = 530;
-},
-{
-name = strikeoutSize;
-value = 102;
-},
-{
-name = underlinePosition;
-value = -256;
-},
-{
-name = underlineThickness;
-value = 256;
+name = "Master Icon Glyph Name";
+value = a;
 }
 );
 id = m01;
 metricValues = (
 {
-pos = 2560;
+pos = 2816;
 },
 {
 pos = 1792;
 },
 {
-pos = -256;
+pos = 1280;
 },
 {
+},
+{
+pos = -512;
 }
 );
-name = Regular;
+name = 11px7pt;
 stemValues = (
 256,
 256
@@ -114,14 +90,59 @@ GSSlanterCursivyThicknessFactor = 1;
 GSSlanterGeometric = 0;
 GSSlanterRotate = 0;
 };
+},
+{
+axesValues = (
+4
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+id = "7B855419-E546-45F5-B139-32C935E0014B";
+metricValues = (
+{
+pos = 2048;
+},
+{
+pos = 1280;
+},
+{
+pos = 768;
+},
+{
+},
+{
+pos = -512;
+}
+);
+name = 8px4pt;
+stemValues = (
+256,
+256
+);
 }
 );
 instances = (
 {
-instanceInterpolations = {
-m01 = 1;
+name = Size;
+type = particles;
+userData = {
+com.glyphsapp.NameParticles = {
+opsz = (
+{
+internal = 7;
+name = 11px7pt;
+},
+{
+internal = 4;
+name = 8px4pt;
+}
+);
 };
-name = Regular;
+};
 }
 );
 metrics = (
@@ -129,13 +150,16 @@ metrics = (
 type = ascender;
 },
 {
-type = bodyHeight;
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
 },
 {
 type = descender;
-},
-{
-type = "italic angle";
 }
 );
 properties = (

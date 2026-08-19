@@ -13,6 +13,21 @@ ref = circumflex;
 }
 );
 width = 512;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+shapes = (
+{
+alignment = -1;
+pos = (256,0);
+ref = dotlessi;
+},
+{
+pos = (0,256);
+ref = circumflex;
+}
+);
+width = 1024;
 }
 );
 note = icircumflex;
