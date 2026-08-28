@@ -1,0 +1,30 @@
+{
+glyphname = dieresiscomb;
+layers = (
+{
+layerId = "E2355328-5F9E-43A3-8DD9-A1C16AC69BD2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,3072,l),
+(256,3328,l),
+(0,3328,l),
+(0,3072,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(1024,3072,l),
+(1024,3328,l),
+(768,3328,l),
+(768,3072,l),
+);
+},
+);
+width = 1280;
+},
+);
+unicode = 776;
+}

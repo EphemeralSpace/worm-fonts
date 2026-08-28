@@ -1,0 +1,23 @@
+{
+glyphname = "Zhe-cy";
+layers = (
+{
+layerId = "E2355328-5F9E-43A3-8DD9-A1C16AC69BD2";
+shapes = (
+{
+alignment = -1;
+pos = (1536,0);
+ref = "Ka-cy";
+},
+{
+alignment = -1;
+pos = (2304,0);
+ref = "Ka-cy";
+scale = (-1,1);
+},
+);
+width = 4096;
+},
+);
+unicode = 1046;
+}
