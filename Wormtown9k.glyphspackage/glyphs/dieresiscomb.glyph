@@ -1,0 +1,14 @@
+{
+glyphname = dieresiscomb;
+layers = (
+{
+layerId = m01;
+width = 640;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+width = 640;
+}
+);
+unicode = 776;
+}

@@ -1,0 +1,42 @@
+{
+glyphname = "Shcha-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(2048,-256,l),
+(2048,256,l),
+(1792,256,l),
+(1792,-256,l)
+);
+},
+{
+ref = "Sha-cy";
+}
+);
+width = 2304;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+closed = 1;
+nodes = (
+(1536,-256,l),
+(1536,256,l),
+(1280,256,l),
+(1280,-256,l)
+);
+}
+);
+width = 1792;
+}
+);
+unicode = 1065;
+}

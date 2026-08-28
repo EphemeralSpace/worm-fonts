@@ -86,7 +86,7 @@ nodes = (
 );
 }
 );
-width = 896;
+width = 1280;
 }
 );
 note = sterling;

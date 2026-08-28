@@ -1,0 +1,55 @@
+{
+glyphname = "Iishort-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (256,512);
+ref = "brevecomb-cy";
+}
+);
+width = 1536;
+},
+{
+layerId = "7B855419-E546-45F5-B139-32C935E0014B";
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+closed = 1;
+nodes = (
+(256,1792,l),
+(256,2048,l),
+(0,2048,l),
+(0,1792,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(768,1536,l),
+(768,1792,l),
+(256,1792,l),
+(256,1536,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1024,1792,l),
+(1024,2048,l),
+(768,2048,l),
+(768,1792,l)
+);
+}
+);
+width = 1280;
+}
+);
+unicode = 1049;
+}
